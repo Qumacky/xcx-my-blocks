@@ -43,7 +43,7 @@ var entry = {
   },
 
   extensionId: 'myBlocks',
-  extensionURL: 'https://github.jp/Qumacky/xcx-my-blocks/myBlocks.mjs',
+  extensionURL: 'https://Qumacky.github.io/xcx-my-blocks/myBlocks.mjs',
   collaborator: 'Qumacky',
   iconURL: img$2,
   insetIconURL: img$1,
@@ -60,7 +60,7 @@ var entry = {
   disabled: false,
   bluetoothRequired: false,
   internetConnectionRequired: false,
-  helpLink: 'https://github.jp/Qumacky/xcx-my-blocks/',
+  helpLink: 'https://Qumacky.github.io/xcx-my-blocks/',
   setFormatMessage: function setFormatMessage(formatter) {
     formatMessage$1 = formatter;
   },
@@ -766,7 +766,7 @@ var EXTENSION_ID = 'myBlocks';
  * @type {string}
  */
 
-var extensionURL = 'https://github.jp/Qumacky/xcx-my-blocks/myBlocks.mjs';
+var extensionURL = 'https://Qumacky.github.io/xcx-my-blocks/myBlocks.mjs';
 /**
  * Scratch 3.0 blocks for example of Xcratch.
  */
